@@ -1,0 +1,59 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+caption {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.romoanCapital {
+    list-style-type: upper-roman;
+}
+
+.romanSmall {
+    list-style-type: lower-roman;
+}
+
+
+.abcCapital {
+    list-style-type: upper-alpha;
+}
+
+.abcSmall {
+    list-style-type: lower-alpha;
+}
+
+.differntStart {
+    list-style-type:;
+}
+
+
+.text {
+    margin: 0;
+    padding: 0;
+}
+
+.textBelow {
+    margin: 0;
+    padding: 0;
+}
+
+.type2 {
+    list-style-type: square;
+}
+
+.type3 {
+    list-style-type: circle;
+}
+
+.center {
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+}
