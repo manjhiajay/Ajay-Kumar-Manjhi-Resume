@@ -1,0 +1,36 @@
+
+caption {
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+table {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50PX;
+}
+
+
+
+.studentscores {
+    margin-top: 50px;
+}
+
+
+.hobbies {
+    margin-top: 50px;
+}
+
+.tdhobbies {
+  height: 120px;
+  width: 250px;
+}
+
+hr {
+    width: 1200px;
+    color: grey;
+}
+
+.hobbies {
+    height: 5px;
+}
